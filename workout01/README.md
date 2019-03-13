@@ -1,0 +1,1 @@
+# workout 01 GSW Shot Charts will give us an opportunity to work with complex file structure and uploading files to Github. Hw involves visualizing shot data and we will producing shot charts for a handful of players from GSW, summaries and visualization, also we need to produce a report document 
